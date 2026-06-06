@@ -1,4 +1,4 @@
-# terraform-plan-on-pr
+# Terraform plan on every pull request
 
 Run `terraform plan` automatically on every pull request and post the
 diff as a comment. Reviewers see exactly what changes before they approve.
